@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.xes-standard:openxes-xstream:2.23:jar">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/xes-standard/openxes-xstream/2.23/openxes-xstream-2.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

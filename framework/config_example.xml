@@ -1,0 +1,6 @@
+<org.processmining.scala.applications.bp.bpi__challenge.scenarios.spark.dev.billion.Config>
+  <scale>-1</scale>
+  <partitions>0</partitions>
+  <inDir>inDir</inDir>
+  <uri>spark</uri>
+</org.processmining.scala.applications.bp.bpi__challenge.scenarios.spark.dev.billion.Config>

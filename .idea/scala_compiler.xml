@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="classifier_blockage,classifier_outlier,classifiers,classifiers_outlier,framework,perf_spec,ppm,psm,psm_utils,sim_ein,sources_9332" />
+  </component>
+</project>

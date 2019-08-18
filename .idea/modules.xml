@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classifiers_outlier.iml" filepath="$PROJECT_DIR$/.idea/modules/classifiers_outlier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/framework.iml" filepath="$PROJECT_DIR$/.idea/modules/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/perf_spec.iml" filepath="$PROJECT_DIR$/.idea/modules/perf_spec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ppm.iml" filepath="$PROJECT_DIR$/.idea/modules/ppm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/psm.iml" filepath="$PROJECT_DIR$/.idea/modules/psm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/psm-build.iml" filepath="$PROJECT_DIR$/.idea/modules/psm-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sim_ein.iml" filepath="$PROJECT_DIR$/.idea/modules/sim_ein.iml" />
+    </modules>
+  </component>
+</project>

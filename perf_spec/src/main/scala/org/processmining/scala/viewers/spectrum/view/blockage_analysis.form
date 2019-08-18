@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="org.processmining.scala.viewers.spectrum.view.blockage_analysis">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <grid id="76ea2" binding="panel4" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="North"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="24ba4" binding="panel2" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints border-constraint="West"/>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="5da77" class="javax.swing.JLabel">
+                <constraints border-constraint="West"/>
+                <properties>
+                  <text value="Segment:"/>
+                </properties>
+              </component>
+              <component id="391b5" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+                <constraints border-constraint="East"/>
+                <properties>
+                  <editable value="false"/>
+                  <enabled value="false"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="8ba6a" binding="panel3" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints border-constraint="Center"/>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="5dd8d" class="javax.swing.JLabel">
+                <constraints border-constraint="West"/>
+                <properties>
+                  <text value="Date:"/>
+                </properties>
+              </component>
+              <component id="df9e6" class="javax.swing.JTextField" binding="textField2" default-binding="true">
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <editable value="false"/>
+                  <enabled value="false"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+      <scrollpane id="9341f">
+        <constraints border-constraint="Center"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <component id="8f2e3" class="javax.swing.JTable" binding="table1" default-binding="true">
+            <constraints/>
+            <properties/>
+          </component>
+        </children>
+      </scrollpane>
+    </children>
+  </grid>
+</form>

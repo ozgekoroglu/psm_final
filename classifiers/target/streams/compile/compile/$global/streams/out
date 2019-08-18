@@ -1,0 +1,13 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\perf_spec\classifiers\src\main\scala\org\processmininginlogistics\classifiers\bp\example\SegmentClassifierExample.java:4:1:  NotImplementedException is internal proprietary API and may be removed in a future release[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport sun.reflect.generics.reflectiveObjects.NotImplementedException;[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\perf_spec\classifiers\src\main\scala\org\processmininginlogistics\classifiers\bp\example\SegmentClassifierExample.java:22:1:  error: SegmentClassifierExample is not abstract and does not override abstract method classify(long,double,double,double,String,long,String,double) in AbstractDurationClassifier[0m
+[0m[[0m[31merror[0m] [0m[0mpublic class SegmentClassifierExample implements AbstractDurationClassifier {[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\perf_spec\classifiers\src\main\scala\org\processmininginlogistics\classifiers\bp\example\SegmentClassifierExample.java:28:1:  error: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m    @Override[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mC:\perf_spec\classifiers\src\main\scala\org\processmininginlogistics\classifiers\bp\example\SegmentClassifierExample.java:35:1:  NotImplementedException is internal proprietary API and may be removed in a future release[0m
+[0m[[0m[33mwarn[0m] [0m[0m        throw new NotImplementedException();[0m
+[0m[[0m[33mwarn[0m] [0m[0m                  ^2 errors[0m
+[0m[[0m[33mwarn[0m] [0m[0m2 warnings[0m

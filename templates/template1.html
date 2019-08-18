@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<!--
+This report uses "Vertical" software for tables formatting
+
+https://github.com/napengam/vertical
+The MIT License (MIT)
+Copyright (c) 2014 Heinrich Schweitzer
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Event Log Footprint</title>
+    <meta charset="UTF-8">
+    <style>
+        .hgs_rotate {
+            -webkit-transform: rotate(-90deg);
+            -moz-transform: rotate(-90deg);
+            -o-transform: rotate(-90deg);
+            -ms-transform: rotate(-90deg);
+            white-space: nowrap;
+            float: left;
+            width: auto;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            font-size: 12px;
+        }
+
+        th {
+        }
+
+        table td.Q0 {
+            background: rgb(255, 255, 255);
+        }
+
+        table td.Q1 {
+            background: rgb(222, 222, 222);
+        }
+
+        table td.Q2 {
+            background: lightskyblue;
+        }
+
+        table td.Q3 {
+            background: lightpink;
+        }
+
+        table td.Q4 {
+            background: red;
+        }
+
+        table td.N {
+            background: lightgreen;
+        }
+
+        table td.T0 {
+            background-color: lightgray;
+        }
+
+        table tr.T0 {
+            background-color: lightgray;
+            border-top: 3px solid #000000;
+        }
+
+
+    </style>
+    <script>
+        function rotateHeadCell(tableId) {
+            'use strict';
+            var aRows = document.getElementById(tableId).rows, padding = 4;
+            [].every.call(aRows, function (row) {
+                if (row.cells[0].tagName !== 'TH') {
+                    return false;
+                }
+                rotateCell(row);
+                return true;
+            });
+            function rotateCell(row) {
+                var rotate = [], maxw = -1;
+                [].forEach.call(row.cells, function (cell) {
+                    var w;
+                    if (!cell.hasAttribute("data-rotate")) {
+                        cell.vAlign = 'bottom';
+                        return;
+                    }
+                    rotate.push(cell);
+                    cell.vAlign = 'middle';
+                    cell.innerHTML = '<div class=hgs_rotate>' + cell.innerHTML + '</div>';
+                    w = cell.clientWidth;
+                    if (w > maxw) {
+                        maxw = w;
+                        cell.style.height = maxw + padding + 'px';
+                    }
+                    cell.firstChild.style.width = cell.firstChild.clientHeight + 'px';
+
+                });
+                if (maxw === -1) {
+                    return;
+                }
+                rotate.forEach(function (cell) {
+                    var dd;
+                    dd = cell.firstChild;
+                    dd.style.position = 'relative';
+                    dd.style.top = (cell.clientHeight - dd.clientHeight - padding) / 2 + 'px';
+                    dd.style.left = '0px';
+
+                });
+            }
+        }
+        function addEvent(obj, ev, fu) {
+            if (obj.addEventListener) {
+                obj.addEventListener(ev, fu, false);
+            } else {
+                var eev = 'on' + ev;
+                obj.attachEvent(eev, fu);
+            }
+        }
+        addEvent(window, 'load', function () {
+            rotateHeadCell('t1');
+        });
+    </script>
+</head>
+<body>
+<div class="content">
+    <!--BEGIN-->
+    <table id="t1">
+
+        <tr>
+            <th></th>
+            <th data-rotate>Year</th>
+            <th data-rotate>Payment application-Application-remove document 111111111111</th>
+            <th data-rotate>Payment application<br>Application<br>remove document</th>
+            <th data-rotate>Payment application-Application-remove document</th>
+        </tr>
+        <tr class="T0">
+            <td class="T0">Payment application-Application-remove document</td>
+            <td class="N">042-08:13:12.276</td>
+            <td class="Q0">042-08:13:12.276</td>
+            <td class="Q1">042-08:13:12.276</td>
+            <td class="Q2">042-08:13:12.276</td>
+        </tr>
+        <tr>
+            <td>Payment application-Application-remove document</td>
+            <td class="N">2</td>
+            <td class="Q3">042-08:13:12.276&plusmn;<br>042-08:13:12.276</td>
+            <td class="Q1">042-08:13:12.276&plusmn;<br>042-08:13:12.276</td>
+            <td class="Q4">042-08:13:12.276&plusmn;<br>042-08:13:12.276</td>
+        </tr>
+        <tr>
+            <td>Payment application-Application-remove document</td>
+            <td class="N">3</td>
+            <td class="Q1">042-08:13:12.276&plusmn;<br>042-08:13:12.276</td>
+            <td class="Q3">042-08:13:12.276&plusmn;<br>042-08:13:12.276</td>
+            <td class="Q3">042-08:13:12.276&plusmn;<br>042-08:13:12.276</td>
+        </tr>
+    </table>
+</div>
+<!--END-->
+</body>
+</html>

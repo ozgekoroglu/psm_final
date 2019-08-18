@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="org.processmining.scala.viewers.spectrum.view.analysis_window">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="565" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <scrollpane id="6d55f">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <maximumSize width="32767" height="150"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <component id="3cc72" class="javax.swing.JTable" binding="table1" default-binding="true">
+            <constraints/>
+            <properties/>
+          </component>
+        </children>
+      </scrollpane>
+      <grid id="4fbcc" binding="panel2" layout-manager="BorderLayout" hgap="0" vgap="0">
+        <constraints border-constraint="North"/>
+        <properties/>
+        <border type="none"/>
+        <children>
+          <grid id="b0d65" binding="panel3" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints border-constraint="West"/>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="c80ab" class="javax.swing.JComboBox" binding="comboBox2" default-binding="true">
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <editable value="false"/>
+                  <enabled value="true"/>
+                  <model/>
+                  <preferredSize width="110" height="24"/>
+                  <requestFocusEnabled value="true"/>
+                </properties>
+              </component>
+              <component id="f6be8" class="javax.swing.JLabel">
+                <constraints border-constraint="West"/>
+                <properties>
+                  <text value="Date:"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="a14bd" binding="panel4" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints border-constraint="Center"/>
+            <properties/>
+            <border type="none"/>
+            <children>
+              <component id="c10b7" class="javax.swing.JComboBox" binding="comboBox1" default-binding="true">
+                <constraints border-constraint="North"/>
+                <properties>
+                  <editable value="false"/>
+                  <maximumSize width="32767" height="100"/>
+                  <model>
+                    <item value="0"/>
+                    <item value="0,2"/>
+                    <item value="0,25"/>
+                    <item value="0,33"/>
+                    <item value="0,5"/>
+                    <item value="0,6"/>
+                    <item value="0,67"/>
+                    <item value="0,75"/>
+                    <item value="0,83"/>
+                    <item value="1"/>
+                  </model>
+                  <preferredSize width="110" height="24"/>
+                  <requestFocusEnabled value="true"/>
+                </properties>
+              </component>
+              <component id="54dd1" class="javax.swing.JComboBox" binding="comboBox3" default-binding="true">
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <model>
+                    <item value="0"/>
+                    <item value="0,2"/>
+                    <item value="0,25"/>
+                    <item value="0,33"/>
+                    <item value="0,5"/>
+                    <item value="0,6"/>
+                    <item value="0,67"/>
+                    <item value="0,75"/>
+                    <item value="0,83"/>
+                    <item value="1"/>
+                  </model>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <grid id="79e5c" binding="panel5" layout-manager="BorderLayout" hgap="0" vgap="0">
+            <constraints border-constraint="East"/>
+            <properties>
+              <minimumSize width="200" height="24"/>
+              <preferredSize width="200" height="24"/>
+              <requestFocusEnabled value="false"/>
+              <verifyInputWhenFocusTarget value="false"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="b8874" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+                <constraints border-constraint="Center"/>
+                <properties>
+                  <text value="Type Segment Name"/>
+                </properties>
+              </component>
+              <component id="c1034" class="javax.swing.JButton" binding="filterButton" default-binding="true">
+                <constraints border-constraint="East"/>
+                <properties>
+                  <text value="Filter"/>
+                </properties>
+              </component>
+              <component id="283af" class="javax.swing.JLabel">
+                <constraints border-constraint="West"/>
+                <properties>
+                  <text value="Segment Name:"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

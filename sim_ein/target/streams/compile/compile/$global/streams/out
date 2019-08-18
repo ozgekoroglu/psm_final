@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0mC:\perf_spec\sim_ein\src\main\scala\org\processmining\scala\prediction\preprocessing\t3\ms\ClassiferExample.scala:16:7: class MyLateBagsClassifier needs to be abstract, since method classify in trait AbstractDurationClassifier of type (duration: Long, q2: Double, median: Double, q4: Double, caseId: String, timestamp: Long, segmentName: String, medianAbsDeviation: Double)Int is not defined[0m
+[0m[[0m[31merror[0m] [0m[0mclass MyLateBagsClassifier(lateBags: Set[String]) extends AbstractDurationClassifier {[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\perf_spec\sim_ein\src\main\scala\org\processmining\scala\prediction\preprocessing\t3\ms\ClassiferExample.scala:17:16: method classify overrides nothing.[0m
+[0m[[0m[31merror[0m] [0m[0mNote: the super classes of class MyLateBagsClassifier contain the following, non final members named classify:[0m
+[0m[[0m[31merror[0m] [0m[0mdef classify(duration: Long,q2: Double,median: Double,q4: Double,caseId: String,timestamp: Long,segmentName: String,medianAbsDeviation: Double): Int[0m
+[0m[[0m[31merror[0m] [0m[0m  override def classify(duration: Long, q2: Double, median: Double, q4: Double, caseId: String, timestamp: Long, segmentName: String): Int =[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

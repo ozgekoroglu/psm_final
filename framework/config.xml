@@ -1,0 +1,6 @@
+<org.processmining.scala.applications.bp.bpi__challenge.scenarios.spark.dev.billion.Config>
+  <scale>1</scale>
+  <partitions>200</partitions>
+  <inDir>D:/logs/bpi_challenge_2017</inDir>
+  <uri>local[*]</uri>
+</org.processmining.scala.applications.bp.bpi__challenge.scenarios.spark.dev.billion.Config>

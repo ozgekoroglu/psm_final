@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="classifiers_outlier:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce84c3c6-43f6-43f6-8fb3-4801bc38f070" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/perf_spec/target/" />
+    <ignored path="$PROJECT_DIR$/sim_ein/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/classifiers/target/" />
+    <ignored path="$PROJECT_DIR$/ppm/target/" />
+    <ignored path="$PROJECT_DIR$/framework/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/classifier_outlier/target/" />
+    <ignored path="$PROJECT_DIR$/classifiers_outlier/target/" />
+    <ignored path="$PROJECT_DIR$/classifier_blockage/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="psm" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/analysis_window.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="59" column="48" lean-forward="true" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#9138#9146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/Palette.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2635">
+              <caret line="155" column="41" selection-start-line="155" selection-start-column="41" selection-end-line="155" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/MainPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9775">
+              <caret line="608" selection-start-line="608" selection-end-line="608" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4609#4610#0" expanded="true" />
+                <element signature="e#4659#4660#0" expanded="true" />
+                <element signature="e#7422#7423#0" expanded="true" />
+                <element signature="e#7465#7466#0" expanded="true" />
+                <element signature="e#8082#8083#0" expanded="true" />
+                <element signature="e#8110#8111#0" expanded="true" />
+                <element signature="e#24747#24748#0" expanded="true" />
+                <element signature="e#24789#24790#0" expanded="true" />
+                <element signature="e#24860#24861#0" expanded="true" />
+                <element signature="e#24905#24906#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classifiers_outlier/src/main/scala/org/processmininginlogistics/classifiers/bp/example/SegmentClassifierExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1649">
+              <caret line="110" column="33" selection-start-line="110" selection-start-column="33" selection-end-line="110" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4981#4982#0" expanded="true" />
+                <element signature="e#5049#5050#0" expanded="true" />
+                <element signature="e#5094#5095#0" expanded="true" />
+                <element signature="e#5118#5119#0" expanded="true" />
+                <element signature="e#5164#5165#0" expanded="true" />
+                <element signature="e#5196#5197#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/log/common/enhancment/segments/common/AbstractDurationClassifier.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="88" column="40" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sim_ein/src/main/scala/org/processmining/scala/prediction/preprocessing/t3/ms/ClassiferExample.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
+              <folding>
+                <element signature="e#64#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>panel5</find>
+      <find>panel2</find>
+      <find>filterButton</find>
+      <find>textfield1</find>
+      <find>textfield</find>
+      <find>sets</find>
+      <find>setsiz</find>
+      <find>textField1</find>
+      <find>arra</find>
+      <find>panel</find>
+      <find>jpanel</find>
+      <find>maxim</find>
+      <find>find</find>
+      <find>tablemodel</find>
+      <find>defaulttablemodel</find>
+      <find>combobox1</find>
+      <find>RowFilter</find>
+      <find>defaulttable</find>
+      <find>double</find>
+      <find>combobox3</find>
+      <find>combobox2</find>
+      <find>L_FAILEDDIRECTION</find>
+      <find>TRACKING</find>
+      <find>filters</find>
+      <find>DefaultPalette</find>
+      <find>Palette</find>
+      <find>OutliersPalette</find>
+      <find>outliers</find>
+      <find>exit</find>
+      <find>OutlierClassifier</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GotoClassSymbolConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="$XSLT" />
+      <filtered-out-file-type name="AIDL" />
+      <filtered-out-file-type name="AndroidDataBinding" />
+      <filtered-out-file-type name="DTD" />
+      <filtered-out-file-type name="EditorConfig" />
+      <filtered-out-file-type name="Groovy" />
+      <filtered-out-file-type name="HOCON" />
+      <filtered-out-file-type name="HTML" />
+      <filtered-out-file-type name="JQL" />
+      <filtered-out-file-type name="JShellLanguage" />
+      <filtered-out-file-type name="JSON" />
+      <filtered-out-file-type name="JSON5" />
+      <filtered-out-file-type name="JVM" />
+      <filtered-out-file-type name="kotlin" />
+      <filtered-out-file-type name="Scala" />
+    </file-type-list>
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+          <option name="moduleName" value="perf_spec" />
+          <option name="title" value="perf_spec (Bundled Groovy 2.4.15)" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/classifiers/src/main/scala/org/processmininginlogistics/classifiers/bp/example/SegmentClassifierExample.java" />
+        <option value="$PROJECT_DIR$/classifier_outlier/build.sbt" />
+        <option value="$PROJECT_DIR$/classifier_outlier/src/main/scala/org/processmininginlogistics/classifiers/bp/example/SegmentClassifierExample.java" />
+        <option value="$PROJECT_DIR$/classifier_outlier/src/main/scala/org/processmininginlogistics/classifier_outlier/bp/example/SegmentClassifierExample.java" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/log/common/enhancment/segments/common/AbstractDurationClassifier.scala" />
+        <option value="$PROJECT_DIR$/classifiers_outlier/build.sbt" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/AppSettings.scala" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/TimeDiffController.scala" />
+        <option value="$PROJECT_DIR$/classifier_blockage/build.sbt" />
+        <option value="$PROJECT_DIR$/classifier_blockage/src/main/scala/org/processmininginlogistics/classifiers/bp/example/SegmentClassifierExample.java" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/Form.java" />
+        <option value="$PROJECT_DIR$/UiUtils/src/org/processmining/scala/viewers/spectrum/view/MainPanel.form" />
+        <option value="$PROJECT_DIR$/UiUtils/src/org/processmining/scala/viewers/spectrum/view/analysis_window" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/blockage_analysis.form" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/Java2sAutoTextField.java" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/RangeSlider.java" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/RangeSliderUI.java" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/blockage_analysis.java" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/analysis_window.form" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/SortedComboBoxModel.java" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/MainPanel.java" />
+        <option value="$PROJECT_DIR$/sim_ein/src/main/scala/org/processmining/scala/prediction/preprocessing/t3/ms/LogSplitter.scala" />
+        <option value="$PROJECT_DIR$/framework/src/main/scala/org/processmining/scala/applications/mhs/bhs/t3/eventsources/BpiCsvImportHelper.scala" />
+        <option value="$PROJECT_DIR$/classifiers_outlier/src/main/scala/org/processmininginlogistics/classifiers/bp/example/SegmentClassifierExample.java" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/Palette.scala" />
+        <option value="$PROJECT_DIR$/sim_ein/src/main/scala/org/processmining/scala/prediction/preprocessing/t3/ms/ClassiferExample.scala" />
+        <option value="$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/analysis_window.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="classifiers_outlier" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="classifiers_outlier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="classifiers_outlier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="classifiers_outlier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="classifiers_outlier" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="segments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="perf_spec" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="segments" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="psm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE" value="right" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE" value="left" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="318" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sources3" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\perf_spec" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Form">
+    <configuration name="ClassiferExample" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.processmining.scala.prediction.preprocessing.t3.ms.ClassiferExample" />
+      <module name="sim_ein" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\ms\logs\segments&quot; 1 &quot;17-11-2017 01:00:00.000&quot; 900000 &quot;C:\ms\logs\classifier&quot;" />
+      <option name="VM_PARAMETERS" value="-Xmx14G" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Form" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.processmining.scala.viewers.spectrum.view.Form" />
+      <module name="perf_spec" />
+      <option name="VM_PARAMETERS" value="-Xmx14G" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogSplitter" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="org.processmining.scala.prediction.preprocessing.t3.ms.LogSplitter" />
+      <module name="sim_ein" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;$PROJECT_DIR$/../evaluation/input&quot; &quot;$PROJECT_DIR$/../ms/logs/test&quot;" />
+      <option name="VM_PARAMETERS" value="-Xmx14G" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.processmining.scala.prediction.preprocessing.t3.ms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PSM_Analysis_Window" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.processmining.scala.viewers.spectrum.view.Form" />
+      <module name="perf_spec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SegmentClassifierExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.processmininginlogistics.classifiers.bp.example.SegmentClassifierExample" />
+      <module name="classifiers_outlier" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.processmininginlogistics.classifiers.bp.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SegmentClassifierExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.processmininginlogistics.classifiers.bp.example.SegmentClassifierExample" />
+      <module name="classifier_blockage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.processmininginlogistics.classifiers.bp.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.processmining.scala.viewers.spectrum.view.analysis_window" />
+      <module name="perf_spec" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blockage_analysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.processmining.scala.viewers.spectrum.view.blockage_analysis" />
+      <module name="perf_spec" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.processmining.scala.viewers.spectrum.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClassiferExample" />
+      <item itemvalue="Application.Form" />
+      <item itemvalue="Application.PSM_Analysis_Window" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.LogSplitter" />
+      <item itemvalue="Application.SegmentClassifierExample (1)" />
+      <item itemvalue="Application.SegmentClassifierExample" />
+      <item itemvalue="Application.blockage_analysis" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SegmentClassifierExample (1)" />
+        <item itemvalue="Application.LogSplitter" />
+        <item itemvalue="Application.blockage_analysis" />
+        <item itemvalue="Application.SegmentClassifierExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="psm" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="sim_ein [file:/C:/perf_spec/]" />
+                <option name="path" value="$PROJECT_DIR$/sim_ein" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="default-40d23a [file:/C:/perf_spec/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="framework [file:/C:/perf_spec/]" />
+                <option name="path" value="$PROJECT_DIR$/framework" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="perf_spec [file:/C:/perf_spec/]" />
+                <option name="path" value="$PROJECT_DIR$/perf_spec" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="classifiers_outlier [file:/C:/perf_spec/]" />
+                <option name="path" value="$PROJECT_DIR$/classifiers_outlier" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ppm [file:/C:/perf_spec/]" />
+                <option name="path" value="$PROJECT_DIR$/ppm" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="psm-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4674333758289" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1482885343" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1575894277" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2134611975" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\nlokor\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce84c3c6-43f6-43f6-8fb3-4801bc38f070" name="Default Changelist" comment="" />
+      <created>1557125901290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557125901290</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.25973153" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.29127517" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35835695" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49932885" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.36402267" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="sbt" order="8" visible="true" weight="0.110067114" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.text.ParseException" package="java.text" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/OptionsDialog.java</url>
+          <line>324</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="table.rowAtPoint(table.getLocation(e.getPoint()))" language="JAVA" />
+        <watch expression="table.getValueAt(, 0)" language="JAVA" />
+        <watch expression="table.rowAtPoint(new Point(e.getX(), e.getY() - table.getLocation().y))" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>table.getValueAt(, 0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table.getValueAt(table.rowAtPoint(new Point(0, e.getY() - table.getLocation().y)), 0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table.rowAtPoint(new Point(e.getX(), e.getY() - table.getLocation().y))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table.getValueAt(table.rowAtPoint(new Point(e.getX(), e.getY() - table.getLocation().y)), 0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table.getValueAt(table.rowAtPoint(table.getLocation(e.getPoint())), 0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table.rowAtPoint(table.getLocation(e.getPoint()))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table.getValueAt()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.getPoint()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table.getLocation(e.getPoint())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table.getLocation()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>table.getValueAt(table.rowAtPoint(new Point(0, e.getY() - table.getLocation().y)), 0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table.rowAtPoint(new Point(e.getX(), e.getY() - table.getLocation().y))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table.getValueAt(table.rowAtPoint(table.getLocation(e.getPoint())), 0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table.rowAtPoint(table.getLocation(e.getPoint()))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/UiUtils/src/org/processmining/scala/viewers/spectrum/view/AnalysisWindow.form" />
+    <entry file="file://$PROJECT_DIR$/UiUtils/src/org/processmining/scala/viewers/spectrum/view/MainPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiUtils/src/org/processmining/scala/viewers/spectrum/view/MainPanel.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiUtils/src/org/processmining/scala/viewers/spectrum/view/Form.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiUtils/src/org/processmining/scala/viewers/spectrum/view/analysis.window" />
+    <entry file="file://$PROJECT_DIR$/UiUtils/src/org/processmining/scala/viewers/spectrum/view/analysis_window" />
+    <entry file="file://$PROJECT_DIR$/UiUtils/src/org/processmining/scala/viewers/spectrum/view/OptionsDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UiUtils/src/org/processmining/scala/viewers/spectrum/view/OptionsDialog.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/FramePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1904">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="632" column="16" selection-start-line="632" selection-start-column="16" selection-end-line="632" selection-end-column="16" />
+          <folding>
+            <element signature="e#26222#26223#0" expanded="true" />
+            <element signature="e#26265#26266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="579" selection-start-line="579" selection-end-line="579" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/log/utils/common/csv/common/CsvImportHelper.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/Options.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifier_blockage/src/main/scala/org/processmininginlogistics/classifiers/bp/example/SegmentClassifierExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="119" column="33" selection-start-line="119" selection-start-column="30" selection-end-line="119" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="298" selection-start-line="298" selection-end-line="298" />
+          <folding>
+            <element signature="e#11798#11799#0" expanded="true" />
+            <element signature="e#11833#11834#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/table/DefaultTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="263" selection-start-line="263" selection-end-line="263" />
+          <folding>
+            <element signature="e#4946#4947#0" expanded="true" />
+            <element signature="e#4994#4995#0" expanded="true" />
+            <element signature="e#6277#6278#0" expanded="true" />
+            <element signature="e#6330#6331#0" expanded="true" />
+            <element signature="e#20993#20994#0" expanded="true" />
+            <element signature="e#21033#21034#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/table/AbstractTableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/event/EventListenerList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/OptionsDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="329" column="13" lean-forward="true" selection-start-line="329" selection-start-column="13" selection-end-line="329" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/Java2sAutoTextField.java" />
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/slider.java" />
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/RangeSlider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#1372#1373#0" expanded="true" />
+            <element signature="e#1419#1420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/RangeSliderUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="49" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1424#1425#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="296" selection-start-line="296" selection-end-line="296" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/SortedComboBoxModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-85">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/TimeDiffController.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="88" column="11" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-lang3/srcs/commons-lang3-3.6-sources.jar!/org/apache/commons/lang3/tuple/Pair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.commons/commons-lang3/srcs/commons-lang3-3.6-sources.jar!/org/apache/commons/lang3/tuple/ImmutablePair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/javax/swing/AbstractButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="2021" selection-start-line="2021" selection-end-line="2021" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/analysis_window.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/TimeDiffGraphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="298" selection-start-line="298" selection-end-line="298" />
+          <folding>
+            <element signature="e#9784#9785#0" expanded="true" />
+            <element signature="e#9872#9873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/blockage_analysis.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/ViewerSettings.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.2.1-sources.jar!/org/apache/spark/sql/SparkSession.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/src/main/scala/org/processmining/scala/log/common/utils/spark/AbstractSession.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/src/main/scala/org/processmining/scala/applications/common/spark/EvaluationHelper.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/src/main/scala/org/processmining/scala/applications/mhs/bhs/t3/scenarios/spark/TemplateForT3SessionCaseStudy.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/src/main/scala/org/processmining/scala/applications/mhs/bhs/t3/eventsources/BpiImporter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1127">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/Form.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="42" column="35" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/src/main/scala/org/processmining/scala/applications/mhs/bhs/t3/eventsources/BpiCsvImportHelper.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sim_ein/src/main/scala/org/processmining/scala/prediction/preprocessing/t3/ms/LogSplitter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/blockage_analysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="241" column="21" selection-start-line="241" selection-start-column="21" selection-end-line="241" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/analysis_window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="59" column="48" lean-forward="true" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#9138#9146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/Palette.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2635">
+          <caret line="155" column="41" selection-start-line="155" selection-start-column="41" selection-end-line="155" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/viewers/spectrum/view/MainPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9775">
+          <caret line="608" selection-start-line="608" selection-end-line="608" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4609#4610#0" expanded="true" />
+            <element signature="e#4659#4660#0" expanded="true" />
+            <element signature="e#7422#7423#0" expanded="true" />
+            <element signature="e#7465#7466#0" expanded="true" />
+            <element signature="e#8082#8083#0" expanded="true" />
+            <element signature="e#8110#8111#0" expanded="true" />
+            <element signature="e#24747#24748#0" expanded="true" />
+            <element signature="e#24789#24790#0" expanded="true" />
+            <element signature="e#24860#24861#0" expanded="true" />
+            <element signature="e#24905#24906#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classifiers_outlier/src/main/scala/org/processmininginlogistics/classifiers/bp/example/SegmentClassifierExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="110" column="33" selection-start-line="110" selection-start-column="33" selection-end-line="110" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4981#4982#0" expanded="true" />
+            <element signature="e#5049#5050#0" expanded="true" />
+            <element signature="e#5094#5095#0" expanded="true" />
+            <element signature="e#5118#5119#0" expanded="true" />
+            <element signature="e#5164#5165#0" expanded="true" />
+            <element signature="e#5196#5197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/perf_spec/src/main/scala/org/processmining/scala/log/common/enhancment/segments/common/AbstractDurationClassifier.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="40" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sim_ein/src/main/scala/org/processmining/scala/prediction/preprocessing/t3/ms/ClassiferExample.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="58" column="43" selection-start-line="58" selection-start-column="43" selection-end-line="58" selection-end-column="43" />
+          <folding>
+            <element signature="e#64#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="true" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>classifier_blockage:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

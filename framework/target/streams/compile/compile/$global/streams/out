@@ -1,0 +1,6 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\perf_spec\framework\src\main\scala\org\processmining\scala\applications\mhs\bhs\ml\DecisionTreeClassifier.scala:5:43: imported `DecisionTreeClassifier' is permanently hidden by definition of object DecisionTreeClassifier in package ml[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport org.apache.spark.ml.classification.DecisionTreeClassifier[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                          ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere were 39 deprecation warnings; re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere was one feature warning; re-run with -feature for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m

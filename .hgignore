@@ -1,0 +1,89 @@
+# use glob syntax.
+syntax: glob
+
+## OS X Finder
+.DS_Store
+*.zip
+
+
+# idea
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/hydra.xml
+.idea/libraries/*
+.idea/modules/*
+*.iws
+out/*
+*.sc
+
+
+
+# ecclipse
+.metadata/*
+
+*.old
+*.orig
+*.dat
+*.header
+*.processed
+*.sep
+
+
+## Build generated
+build/
+DerivedData
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+
+## Other
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+*.png
+*.orig
+*.csv
+*.wav
+*.html
+*.old
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+
+# Swift Package Manager
+.build/
+
+# Carthage
+Carthage/Build
+
+# CocoaPods
+Pods/
+
+*.framework
+
+
+# Java
+target/
+
+*.log
+*.txt
+*.ok
+*.orig
+*.log.*
+*.ini
+
+*.gexf
+
+out/
+*.jar
+UiUtils/nbproject/private/private.properties
